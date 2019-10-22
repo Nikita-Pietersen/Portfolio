@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/Portfolio/CV/static/css/main.6fcdd212.chunk.css",
-    "main.js": "/Portfolio/CV/static/js/main.56417a47.chunk.js",
-    "main.js.map": "/Portfolio/CV/static/js/main.56417a47.chunk.js.map",
-    "runtime-main.js": "/Portfolio/CV/static/js/runtime-main.44b8164f.js",
-    "runtime-main.js.map": "/Portfolio/CV/static/js/runtime-main.44b8164f.js.map",
-    "static/js/2.cb48e588.chunk.js": "/Portfolio/CV/static/js/2.cb48e588.chunk.js",
-    "static/js/2.cb48e588.chunk.js.map": "/Portfolio/CV/static/js/2.cb48e588.chunk.js.map",
-    "index.html": "/Portfolio/CV/index.html",
-    "precache-manifest.9b1cfdd06f8884ef0bc2ac64cc122291.js": "/Portfolio/CV/precache-manifest.9b1cfdd06f8884ef0bc2ac64cc122291.js",
-    "service-worker.js": "/Portfolio/CV/service-worker.js",
-    "static/css/main.6fcdd212.chunk.css.map": "/Portfolio/CV/static/css/main.6fcdd212.chunk.css.map",
-    "static/media/Game.jpg": "/Portfolio/CV/static/media/Game.9ec5f6f9.jpg",
-    "static/media/Shop.jpg": "/Portfolio/CV/static/media/Shop.1e1ad4ae.jpg",
-    "static/media/Weather App.jpg": "/Portfolio/CV/static/media/Weather App.3e4f5ace.jpg",
-    "static/media/style.css": "/Portfolio/CV/static/media/back.770c6a5a.jpg",
-    "static/media/profileImage.jpg": "/Portfolio/CV/static/media/profileImage.f48fa7c9.jpg"
+    "main.css": "/Portfolio/static/css/main.6e7906f1.chunk.css",
+    "main.js": "/Portfolio/static/js/main.57212de7.chunk.js",
+    "main.js.map": "/Portfolio/static/js/main.57212de7.chunk.js.map",
+    "runtime-main.js": "/Portfolio/static/js/runtime-main.b0957d76.js",
+    "runtime-main.js.map": "/Portfolio/static/js/runtime-main.b0957d76.js.map",
+    "static/js/2.cb48e588.chunk.js": "/Portfolio/static/js/2.cb48e588.chunk.js",
+    "static/js/2.cb48e588.chunk.js.map": "/Portfolio/static/js/2.cb48e588.chunk.js.map",
+    "index.html": "/Portfolio/index.html",
+    "precache-manifest.344f8c986137996215e0e5e4136f0e72.js": "/Portfolio/precache-manifest.344f8c986137996215e0e5e4136f0e72.js",
+    "service-worker.js": "/Portfolio/service-worker.js",
+    "static/css/main.6e7906f1.chunk.css.map": "/Portfolio/static/css/main.6e7906f1.chunk.css.map",
+    "static/media/Game.jpg": "/Portfolio/static/media/Game.9ec5f6f9.jpg",
+    "static/media/Shop.jpg": "/Portfolio/static/media/Shop.1e1ad4ae.jpg",
+    "static/media/Weather App.jpg": "/Portfolio/static/media/Weather App.3e4f5ace.jpg",
+    "static/media/style.css": "/Portfolio/static/media/back.770c6a5a.jpg",
+    "static/media/profileImage.jpg": "/Portfolio/static/media/profileImage.f48fa7c9.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.44b8164f.js",
+    "static/js/runtime-main.b0957d76.js",
     "static/js/2.cb48e588.chunk.js",
-    "static/css/main.6fcdd212.chunk.css",
-    "static/js/main.56417a47.chunk.js"
+    "static/css/main.6e7906f1.chunk.css",
+    "static/js/main.57212de7.chunk.js"
   ]
 }
